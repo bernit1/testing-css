@@ -1,3 +1,11 @@
 * {
     color: blue;
 }
+
+div {
+    color: grey;
+}
+
+.alert-text {
+    color: red;
+}
